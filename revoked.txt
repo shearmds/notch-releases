@@ -1,2 +1,3 @@
 # Refunded or withdrawn licenses: SHA-256 of the order, one per line.
 c5ed911a940d6d24d3543d9818481365521604cd734cc7fdc5f705df7590d64d  # sandbox test refund 2026-09-26
+15fcf7d36e52126621776d6061fb0b65f0edc005be1f394c0c646cfd1fc58dbd  # live launch test purchase, refunded 2026-09-26
